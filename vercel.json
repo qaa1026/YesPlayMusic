@@ -1,1 +1,8 @@
-1
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://github.com/qaa1026/YesPlayMusic/blob/master/vercel.json/：match*"
+    }
+  ]
+}
